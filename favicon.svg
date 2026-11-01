@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 藍色圓角底，與網站主色一致 -->
+  <rect width="64" height="64" rx="14" fill="#2f5fb3"/>
+  <!-- 往上的箭頭：自主學習、持續進步 -->
+  <path d="M32 7 L41 17 H35.5 V25 H28.5 V17 H23 Z" fill="#ffc94d"/>
+  <!-- 翻開的書 -->
+  <path d="M9 27 Q20 24 30 30 V54 Q20 48 9 51 Z" fill="#ffffff"/>
+  <path d="M55 27 Q44 24 34 30 V54 Q44 48 55 51 Z" fill="#e8eefa"/>
+</svg>
